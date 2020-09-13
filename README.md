@@ -8,7 +8,7 @@
 | ------------- | --------- |
 | CPU | AMD Ryzen 5 3600 @ 3.6GHz |
 | Motherboard | ASUS Rog Strix B550i |
-| RAM | 16GB (2 x 16GB) Asgard W2 @ 3200MHz @OC 3600MHz C16|
+| RAM | 32GB (2 x 16GB) Asgard W2 @ 3200MHz @OC 3600MHz C16|
 | Audio Chipset | ALC-S1220A |
 | GPU | SAPPHIRE NITRO+ RX 580 8G G5 |
 | WiFi & Bluetooth | Intel® I225-V 2.5Gb Ethernet |
