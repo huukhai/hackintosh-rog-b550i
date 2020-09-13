@@ -11,7 +11,8 @@
 | RAM | 32GB (2 x 16GB) Asgard W2 @ 3200MHz @OC 3600MHz C16|
 | Audio Chipset | ALC-S1220A |
 | GPU | SAPPHIRE NITRO+ RX 580 8G G5 |
-| WiFi & Bluetooth | Intel® I225-V 2.5Gb Ethernet |
+| WiFi & Bluetooth | Intel® Wi-Fi 6 AX200 |
+| Lan |  Intel® I225-V 2.5Gb Ethernet |
 | OS Disk (NVMe) | Samsung 960 Evo 500GB |
 | macOS | Catalina 10.15.6/ OpenCore 0.6.1
 
