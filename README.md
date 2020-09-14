@@ -13,7 +13,7 @@
 | GPU | SAPPHIRE NITRO+ RX 580 8G G5 |
 | WiFi & Bluetooth | Intel® Wi-Fi 6 AX200 |
 | Lan |  Intel® I225-V 2.5Gb Ethernet |
-| OS Disk (NVMe) | Samsung 960 Evo 500GB |
+| OS Disk | Samsung 960 Evo 500GB |
 | macOS | Catalina 10.15.6/ OpenCore 0.6.1
 
 ## What works
