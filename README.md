@@ -19,9 +19,9 @@
 ## What works
 - Audio (`alcid=3`)
 - Ethernet
-- USB (probably, haven't tested all ports)
-- Wi-Fi (use [HeliPort client](https://github.com/OpenIntelWireless/HeliPort))
-- Bluetooth (haven't tested)
+- USB (~~probably, haven't tested all ports~~)
+- Wi-Fi (~~use [HeliPort client](https://github.com/OpenIntelWireless/HeliPort)~~)
+- Bluetooth (~~haven't tested~~)
 - iMessage, FaceTime
 - AMD Power management
 
